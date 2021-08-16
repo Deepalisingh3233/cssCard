@@ -1,0 +1,23 @@
+.card{
+    background-color: lightgreen;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.img{
+    height:120px;
+    border-radius: 50%;
+}
+.logo{
+    color: rgb(23, 112, 90);
+    padding: 20px;
+}
+.footer{
+    background-color: rgb(23, 112, 90);
+    padding: 7px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    color: lightgreen;
+    font-size: 18px;
+}
